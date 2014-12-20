@@ -1,0 +1,9 @@
+This is a 28BYJ-48 stepper motor library from Alexander Hinkel
+http://www.arduino-projekte.de/index.php?n=63
+
+This version comes with a step_noblock method that tries to
+do the motor stepping in a non-blockin way.
+Within the nolock step version the delay was removed and instead
+we check at number of microseconds before doing the next step.
+
+An additional example was added.
