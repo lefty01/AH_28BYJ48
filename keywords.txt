@@ -2,6 +2,6 @@ AH_28BYJ-48	KEYWORD1
 
 setSpeedRPM	KEYWORD2
 setSpeedHz	KEYWORD2
-step		KEYWORD2
-step_noblock    KEYWORD2
+step	KEYWORD2
+step_noblock	KEYWORD2
 
