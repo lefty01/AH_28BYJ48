@@ -1,5 +1,5 @@
 AH_28BYJ48	KEYWORD1	Stepper Motor Library (for 28BYJ-48)
 setSpeedRPM	KEYWORD2
 setSpeedHz	KEYWORD2
-step		KEYWORD2
+step	KEYWORD2
 step_noblock	KEYWORD2
